@@ -1,0 +1,20 @@
+<header class="header-area">
+      <nav class="navbar navbar-expand-md navbar-dark">
+  		<div class="container">
+  			<a href="/welcome" class="navbar-brand">Pogodynka</a>
+  			<div id="main-nav" class="collapse navbar-collapse">
+  				<ul class="navbar-nav ml-auto">
+  					<li><a href="/city" class="nav-item nav-link">Prognoza pogody</a></li>
+  					<li><a href="/pastdata" class="nav-item nav-link">Dane historyczne</a></li>
+  				</ul>
+  			</div>
+        <div class="dropdown">
+          <a href="#" class="navbar-user" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-person"></i></a>
+    			<div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    				<a href="/my_account" class="dropdown-item">Moje Konto</a>
+    				<a href="/logout" class="dropdown-item">Wyloguj</a>
+          </div>
+  			</div>
+  		</div>
+  	  </nav>
+    </header>
