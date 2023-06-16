@@ -1,7 +1,7 @@
 # Weather App - Project Documentation
 
 
-Supervisor: Dr. Eng. Piotr Bobiński
+Supervisor: Dr.  Piotr Bobiński
 
 1. Introduction
 
